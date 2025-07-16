@@ -29,8 +29,6 @@ Cypher will handle the following for you:
 
 ## 🎯 Planned Features
 
-We are always working on improving Cypher. Here's what's coming soon:
-
 * **Targeted Farming:** Automatically farm a specific character's materials.
 * **Smart Relic Locking:** Automatically lock great relics based on customizable stats.
 * **Reward Code Redemption:** Tracks and applies new reward codes directly to your account.
