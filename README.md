@@ -9,6 +9,14 @@ An easy-to-use bot for automating daily tasks in Honkai: Star Rail and other pop
 
 ---
 
+## 💾 Download & Getting Started
+
+You'll be up and running within a few minutes! All download links, instructions, and support are handled through our community Discord server.
+
+**Download Cypher here!** -> **https://discord.gg/DJJvxQTS**
+
+---
+
 ## 🚀 About Cypher
 
 Cypher is a powerful **Honkai: Star Rail automation tool** that requires little setup, no lengthy instructions, or technical knowledge. It's designed for players who want to save time on daily grinds and focus on the parts of the game they enjoy most. Simply download and run the program to get started with **Star Rail auto** farming.
@@ -56,10 +64,3 @@ Cypher is more than just a **Star Rail bot**! It also supports:
 
 We will continuously add the most popular Gacha games to Cypher.
 
----
-
-## 💾 Download & Getting Started
-
-You'll be up and running within a few minutes! All download links, instructions, and support are handled through our community Discord server.
-
-**Download Cypher here!** -> **https://discord.gg/DJJvxQTS**
