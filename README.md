@@ -11,7 +11,9 @@ An easy-to-use bot for automating daily tasks in Honkai: Star Rail and other pop
 ![Cypher - Star Rail](https://i.imgur.com/HY1tZN6.png "Cypher - Dailys")
 ### Modern and easy-to-use UI!
 ![Cypher - Star Rail](https://i.imgur.com/R4HwFgD.png "Cypher - Bot1")
+<!---
 ![Cypher - Star Rail](https://i.imgur.com/wkacMjC.png "Cypher - Bot2")
+-->
 
 ---
 
