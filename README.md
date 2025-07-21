@@ -68,7 +68,7 @@ Using our **Star Rail bot** is very safe for your account.
 Cypher is more than just a **Star Rail bot**! It also supports:
 
 * **Nikke: Goddess of Victory** (for **Nikke auto daily** tasks)
-* **Girls' Frontline 2: Exilium**
+* *Zenless Zone Zero**
 
 We will continuously add the most popular Gacha games to Cypher.
 
