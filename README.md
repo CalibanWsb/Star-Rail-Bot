@@ -21,7 +21,7 @@ An easy-to-use bot for automating daily tasks in Honkai: Star Rail and other pop
 
 You'll be up and running within a few minutes! All download links, instructions, and support are handled through our community Discord server.
 
-**Download Cypher here!** -> **[https://discord.gg/DJJvxQTS](https://discord.gg/MKgGJ8aeDN)**
+**Download Cypher here!** -> **[https://discord.gg/MKgGJ8aeDN](https://discord.gg/MKgGJ8aeDN)**
 
 ---
 
