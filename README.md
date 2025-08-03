@@ -72,3 +72,4 @@ Cypher is more than just a **Star Rail bot**! It also supports:
 
 We will continuously add the most popular Gacha games to Cypher.
 
+<img src="https://github.com/user-attachments/assets/55552739-fee2-4e41-b195-76473c3f3341" />
