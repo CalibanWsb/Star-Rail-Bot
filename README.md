@@ -1,6 +1,6 @@
 # Cypher - Your Honkai: Star Rail & Gacha Game Automation Tool
 
-![Version](https://img.shields.io/badge/version-v0.2-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-v0.4-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 
 An easy-to-use bot for automating daily tasks in Honkai: Star Rail and other popular gacha games.
