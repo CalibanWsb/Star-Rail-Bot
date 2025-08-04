@@ -49,6 +49,7 @@ Cypher is designed from the ground up to be a **safe Honkai: Star Rail bot**. It
 
 Currently Cypher supports the following games:
 
+* Honkai: Star Rail
 * Nikke: Goddess of Victory
 * Zenless Zone Zero
 * Wuthering Waves (in development)
