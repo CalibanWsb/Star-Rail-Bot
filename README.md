@@ -28,7 +28,7 @@ Follow the link and Cypher will be up and running in a few minutes.
 
 Cypher features are as follows:
 
-* **Automatic Login:** No username/password required. Your credentials are never shared with Cypher (you may block internet access to the application itself if you are worried about this.)
+* **Automatic Login:** No username/password required. Your credentials are never shared with Cypher.
 * **Relic Farming:** Automatically farm any relic set or material you chose.
 * **Dailies:** Completes all daily requirements including Assignments, Synthesizer tasks, and more.
 * **Battle Pass:** Automatically claims completed Battle Pass rewards.
