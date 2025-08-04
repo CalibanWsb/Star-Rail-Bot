@@ -17,6 +17,7 @@ Cypher is a bot for automating daily tasks in Honkai: Star Rail and other popula
 ## 💾 Download & Getting Started
 
 Download links, instructions, and support are handled through our community Discord server.
+
 Follow the link and Cypher will be up and running in a few minutes.
 
 ### **Download Cypher here!** -> **[https://discord.gg/MKgGJ8aeDN](https://discord.gg/MKgGJ8aeDN)**
